@@ -24,10 +24,10 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reflux/reflux-core.git"
+    "url": "https://github.com/evilfer/reflux-core.git"
   },
   "bugs": {
-    "url": "http://github.com/reflux/reflux-core/issues"
+    "url": "http://github.com/evilfer/reflux-core/issues"
   },
   "keywords": [
     "reflux",
